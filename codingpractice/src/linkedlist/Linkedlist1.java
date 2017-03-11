@@ -59,6 +59,7 @@ public class Linkedlist1 {
 		list1.insertAtbeg(10);
 		list1.insertAtbeg(11);
 		list1.printList();
+		//test
 
 	}
 
